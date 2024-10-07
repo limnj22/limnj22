@@ -27,8 +27,6 @@
 - I’m a graduate software engineer currently working as a full-stack developer.
 - I’m currently learning JavaScript, Typescript, MongoDB, React.js, and Node.js.
 
-<br/>
-
 <h3 align="left">⚒️ Tools & Technologies</h3>
 <h4 align="left">🖥️ Frontend</h4>
 
