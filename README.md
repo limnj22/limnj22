@@ -1,9 +1,31 @@
-<h1>Nicholas Lim</h1>
+<h1 align="center">Nicholas Lim</h1>
+
+<div align="center">
+  <!-- Email button -->
+  <!-- Light Mode -->
+  <a align="center" href="mailto:jsnexpl@gmail.com@gmail.com#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=000&color=61dafb#gh-light-mode-only" alt="jsnexpl@gmail.com | Email">
+  </a>
+  <!-- Dark Mode -->
+  <a align="center" href="mailto:jsnexpl@gmail.com#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge#gh-dark-mode-only" alt="jsnexpl@gmail.com | Email">
+  </a>
+  
+  <!-- LinkedIn button -->
+  <!-- Light Mode -->
+  <a href="linkedin.com/in/nicholasjlim/#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=000&color=61dafb#gh-light-mode-only" alt="linkedin.com/in/nicholasjlim | LinkedIn">
+  </a>
+  <!-- Dark Mode -->
+  <a href="linkedin.com/in/nicholasjlim/#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge#gh-dark-mode-only" alt="linkedin.com/in/nicholasjlim | LinkedIn">
+  </a>
+</div>
 
 <h3 align="left">👩🏻‍💻 Who Am I</h3>
 
-- 🎓 I’m a final year Bachelor of Computer Science student, majoring in Software Development at UNI NAME HERE.
-- 🌱 I’m currently learning JavaScript, Typescript, MongoDB, Express.js, React.js, and Node.js.
+- 🎓 I’m a graduate software engineer currently working as a full-stack developer.
+- 🌱 I’m currently learning JavaScript, Typescript, MongoDB, React.js, and Node.js.
 
 <br/>
 
