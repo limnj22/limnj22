@@ -25,7 +25,7 @@
 <h3 align="left">👩🏻‍💻 Who Am I</h3>
 
 - I’m a graduate software engineer currently working as a full-stack developer.
-- I’m currently learning JavaScript, Typescript, MongoDB, React.js, and Node.js.
+- I’m currently learning JavaScript, Typescript, React.js, and Node.js.
 
 <h3 align="left">⚒️ Tools & Technologies</h3>
 <h4 align="left">🖥️ Frontend</h4>
